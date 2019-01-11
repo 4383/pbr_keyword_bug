@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: pbr-md
+Version: 0.0.0
+Summary: OpenStack's setup automation in a reusable form
+Home-page: https://launchpad.net/pbr
+Author: OpenStack Foundation
+Author-email: openstack-dev@lists.openstack.org
+License: Apache-2
+Project-URL: Bug Tracker, https://bugs.launchpad.net/pbr/
+Project-URL: Documentation, https://docs.openstack.org/pbr/
+Project-URL: Source Code, https://git.openstack.org/cgit/openstack-dev/pbr/
+Keywords: setup
+
+# Some readme
+
+
+

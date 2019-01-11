@@ -1,0 +1,5 @@
+.direnv
+*.egg*
+.idea
+build
+dist
